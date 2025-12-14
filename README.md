@@ -1,4 +1,7 @@
-# Hii :)
+## Isabelli Amarens Soares Gopal
+# Hi there :)
+
+I´m a high school student learning how to program with Behring Academy and Neps Academy!
 
 - 🔭 I´m very interested in _technology_, _coding_, _arts_, _music_ and _books_! 
 - 🌱 I’m currently learning programming with **Behring Academy**!

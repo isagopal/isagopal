@@ -1,5 +1,5 @@
-## Isabelli Amarens Soares Gopal
-# Hi there :)
+# Isabelli Amarens Soares Gopal
+## Hii there! :)
 
 I´m a high school student learning how to program with Behring Academy and Neps Academy!
 
